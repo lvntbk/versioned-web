@@ -1,0 +1,6 @@
+apiVersion: v2
+name: versioned-web
+description: Simple versioned nginx static site
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
