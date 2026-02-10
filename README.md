@@ -29,24 +29,6 @@ Her yeni sürüm:
 - GitHub Container Registry (GHCR)  
 - Nginx (statik web sunucusu)
 
----
-versioned-web/
-├── app/
-│ └── index.html
-├── Dockerfile
-├── helm/
-│ ├── Chart.yaml
-│ ├── values.yaml
-│ └── templates/
-│ ├── deployment.yaml
-│ ├── service.yaml
-│ └── _helpers.tpl
-└── .github/
-└── workflows/
-└── release.yml
-
-
----
 
 ## 🚀 Local Ortamda Çalıştırma (k3d)
 
